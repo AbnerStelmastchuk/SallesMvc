@@ -7,7 +7,6 @@ C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\bin\Debug\netcoreapp2.1\Salle
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\bin\Debug\netcoreapp2.1\SallesMvc.pdb
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\bin\Debug\netcoreapp2.1\SallesMvc.Views.dll
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\bin\Debug\netcoreapp2.1\SallesMvc.Views.pdb
-C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.csprojAssemblyReference.cache
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.AssemblyInfoInputs.cache
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.AssemblyInfo.cs
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\Salle
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.pdb
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.genruntimeconfig.cache
 C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.csproj.CopyComplete
+C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\SallesMvc.csprojAssemblyReference.cache
+C:\Users\Skyadrum\source\repos\SallesMvc\SallesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
